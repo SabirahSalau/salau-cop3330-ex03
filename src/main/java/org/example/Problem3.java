@@ -1,5 +1,5 @@
 /*
- *  UCF COP3330 Summer 2021 MotivatedAssignment 1 Solution
+ *  UCF COP3330 Summer 2021 MotivatedAssignment 3 Solution
  *  Copyright 2021 Sabirah Salau
  */
 
