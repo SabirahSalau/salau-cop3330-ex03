@@ -1,3 +1,8 @@
+/*
+ *  UCF COP3330 Summer 2021 MotivatedAssignment 1 Solution
+ *  Copyright 2021 Sabirah Salau
+ */
+
 package org.example;
 
 import java.util.Scanner;
